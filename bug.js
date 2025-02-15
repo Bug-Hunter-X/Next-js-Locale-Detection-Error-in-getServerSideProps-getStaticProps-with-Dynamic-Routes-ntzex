@@ -1,0 +1,1 @@
+In Next.js, an uncommon error occurs when using server-side props (`getServerSideProps`) or static generation (`getStaticProps`) with dynamic routes containing locale prefixes.  The issue arises when the locale is not correctly detected or handled, leading to unexpected behavior, such as the wrong language being displayed or 404 errors.
